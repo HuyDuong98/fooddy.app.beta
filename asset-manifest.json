@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25391497.chunk.css",
+    "main.js": "/static/js/main.d776fd20.chunk.js",
+    "main.js.map": "/static/js/main.d776fd20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88028dbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88028dbc.js.map",
+    "static/css/2.a2b94de1.chunk.css": "/static/css/2.a2b94de1.chunk.css",
+    "static/js/2.3d2658a6.chunk.js": "/static/js/2.3d2658a6.chunk.js",
+    "static/js/2.3d2658a6.chunk.js.map": "/static/js/2.3d2658a6.chunk.js.map",
+    "static/js/3.b737d696.chunk.js": "/static/js/3.b737d696.chunk.js",
+    "static/js/3.b737d696.chunk.js.map": "/static/js/3.b737d696.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a2b94de1.chunk.css.map": "/static/css/2.a2b94de1.chunk.css.map",
+    "static/css/main.25391497.chunk.css.map": "/static/css/main.25391497.chunk.css.map",
+    "static/js/2.3d2658a6.chunk.js.LICENSE.txt": "/static/js/2.3d2658a6.chunk.js.LICENSE.txt",
+    "static/media/featured_brands.d49dfc28.svg": "/static/media/featured_brands.d49dfc28.svg",
+    "static/media/flash_deals.3bbbc57f.svg": "/static/media/flash_deals.3bbbc57f.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
+    "static/media/icon_top_categories.439467a8.svg": "/static/media/icon_top_categories.439467a8.svg",
+    "static/media/new.19671d4d.svg": "/static/media/new.19671d4d.svg",
+    "static/media/index.css": "/static/media/quicksand-vietnamese-400-normal.5365b003.woff2",
+    "static/media/shopping-bag.c3758b46.svg": "/static/media/shopping-bag.c3758b46.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/top_ratings.51759fd0.svg": "/static/media/top_ratings.51759fd0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88028dbc.js",
+    "static/css/2.a2b94de1.chunk.css",
+    "static/js/2.3d2658a6.chunk.js",
+    "static/css/main.25391497.chunk.css",
+    "static/js/main.d776fd20.chunk.js"
+  ]
+}
